@@ -1,0 +1,9 @@
+{
+  "name": "product-specifications-lambda",
+  "version": "1.0.0",
+  "description": "Lambda functions for Product Specifications API",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.0.0",
+    "@aws-sdk/lib-dynamodb": "^3.0.0"
+  }
+}
